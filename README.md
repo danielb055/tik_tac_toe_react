@@ -8,4 +8,4 @@ Learning ReactJS version 18 by building a tik tok toe game.
 4. From the project folder run `vite`
 5. Then follow the link that you will be provided with in the termianl usually `http://localhost:3000` to see the game in the browser.
 
-[Demo](daniel-tik-tok-toe.surge.sh)
+[Demo](https://daniel-tik-tok-toe.surge.sh/)
